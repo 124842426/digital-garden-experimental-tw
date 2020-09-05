@@ -18,7 +18,8 @@ image: /assets/BNYB.jpg
 - 張毓棻
 - 藍念初
 - [谷煥暲](Bardo%20Pool.md){: .internal-link}
-
+- [[Bardo Pool]]
+  
 ---
 
 ### miji66參與錄音

@@ -12,5 +12,4 @@ image: /assets/NoInput.jpg
 - [[Dino]]
 - [[Gam Zuei]]
 - [[Xin-Yun Cai]]
-
-[[Senko Issha]]
+- [[Senko Issha]]

@@ -11,14 +11,14 @@ image: /assets/BNYB.jpg
 ---
 ### Members
 - 楊雨樵 
-- [劉芳一](Fangyi%20Liu.md){: .internal-link}
+- [劉芳一](Fangyi%20Liu){: .internal-link}
 - 古翔宇
 - [陳嫀宜](https://soundcloud.com/user-122959456) 
 - [何承恩](https://soundcloud.com/nnzz)
 - 張毓棻
 - 藍念初
-- [谷煥暲](Bardo%20Pond.md){: .internal-link}
-- [[Bardo Pool]]
+- [谷煥暲](Bardo%20Pond){: .internal-link}
+- [[Bardo Pond]]
   
 ---
 

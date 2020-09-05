@@ -14,26 +14,26 @@ permalink: /
 </p>
 
 ### Labels / Organisations / Places 🌱
-- [[Senko Issha]] [先行一車](../_notes/Senko%20Issha.md){: .internal-link}
+- [[Senko Issha]] [先行一車](Senko%20Issha){: .internal-link}
 - [[Ting Shuo Hear Say]]
-- [[Bardo Pond]] [巴多池塘](../_notes/Bardo%20Pond.md{: .internal-link}
+- [[Bardo Pond]] [巴多池塘](Bardo%20Pond){: .internal-link}
 - [Karma Detonation Tapes](https://www.facebook.com/groups/330235444521775)
 - [MKUltra Productions](https://www.facebook.com/MKUltraPro)
-- [[Merdogon Records]] [狗屎語](../_notes/Merdogon%20Records.md){: .internal-link}
+- [[Merdogon Records]] [狗屎語](Merdogon%20Records){: .internal-link}
 
 ---
 ### People 🌱
 
 - [[Anteng Tsai]]
-- [[Bei San Q Nan]] [北山Q男](../_notes/Bei%20San%20Q%20Nan.md){: .internal-link}
+- [[Bei San Q Nan]] [北山Q男](Bei%20San%20Q%20Nan){: .internal-link}
 - [[Chia-Chun Xu]]
 - [[David]]
 - [[Dino]]
 - [[DJ Rex Chen]]
-- [[Fangyi Liu]] [劉芳一](../_notes/Fangyi%20Liu.md){: .internal-link}
-- [[Gam Zuei]] [甘水](../_notes/Gam%20Zuei.md){: .internal-link}
+- [[Fangyi Liu]] [劉芳一](Fangyi%20Liu){: .internal-link}
+- [[Gam Zuei]] [甘水](Gam%20Zuei){: .internal-link}
 - [[Jyun-Ao Caesar]]
-- [[Jun-Yang Li]] [妙工俊陽](../_notes/Jun-Yang%20Li.md){: .internal-link}
+- [[Jun-Yang Li]] [妙工俊陽](Jun-Yang%20Li){: .internal-link}
 - [[Lala Reich]]
 - [[Xiao Liu]]
 - [[Xin-Yun Cai]]
@@ -41,10 +41,10 @@ permalink: /
 ---
 ### Groups / Projects 🌱
 
-- [[Be Ni Ya Ben]] [美麗亞幫](../_notes/Be%20Ni%20Ya%20Ben.md){: .internal-link}
+- [[Be Ni Ya Ben]] [美麗亞幫](Be%20Ni%20Ya%20Ben){: .internal-link}
 - [[No-Input Army]]
 - [[Outer Pulsation]]
-- [[Saint Sloth Machine]] [聖・死啦什麼心](../_notes/Saint%20Sloth%20Machine.md){: .internal-link}
+- [[Saint Sloth Machine]] [聖・死啦什麼心](Saint%20Sloth%20Machine){: .internal-link}
 
 ---
 ### Collaborations / Other Contributors 🌱

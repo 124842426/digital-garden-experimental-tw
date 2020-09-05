@@ -1,5 +1,5 @@
 ---
-title: Bardo Pool
+title: Bardo Pond
 image: /assets/Anteng_Tsai_pic(Etang_Chen).jpg
 ---
 

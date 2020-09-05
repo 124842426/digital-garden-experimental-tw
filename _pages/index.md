@@ -16,7 +16,7 @@ permalink: /
 ### Labels / Organisations / Places 🌱
 - [[Senko Issha]] [先行一車](../_notes/Senko%20Issha.md){: .internal-link}
 - [[Ting Shuo Hear Say]]
-- [[Bardo Pool]] [巴多池塘](../_notes/Bardo%20Pool.md){: .internal-link}
+- [[Bardo Pond]] [巴多池塘](../_notes/Bardo%20Pond.md{: .internal-link}
 - [Karma Detonation Tapes](https://www.facebook.com/groups/330235444521775)
 - [MKUltra Productions](https://www.facebook.com/MKUltraPro)
 - [[Merdogon Records]] [狗屎語](../_notes/Merdogon%20Records.md){: .internal-link}

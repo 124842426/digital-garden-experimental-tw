@@ -17,7 +17,7 @@ image: /assets/BNYB.jpg
 - [何承恩](https://soundcloud.com/nnzz)
 - 張毓棻
 - 藍念初
-- [谷煥暲](Bardo%20Pool.md){: .internal-link}
+- [谷煥暲](Bardo%20Pond.md){: .internal-link}
 - [[Bardo Pool]]
   
 ---

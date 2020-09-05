@@ -1,8 +1,11 @@
 ---
 title: Jyun-Ao Caesar
-image: 
+image: /assets/JAC.jpg
 
 ---
+![]({{page.image}})
+<p align="center" style="font-size: 0.7em"> Photo by Etang Chen </p>
+
 
 ### Short Bios
 Jyun-Ao Caesar’s music can be described as an approach toward the composition of Pan-Musique Concrète as proposed by Dajuin Yau. His experience with signal processing, analog amplification, and field recording, as well as his knowledge of space and time led to his adoption of the instrument.
@@ -22,15 +25,24 @@ Jyun-Ao Caesar以泛具象音樂與極簡主義創作。他在訊號處理、類
 ### Links
 [SoundCloud](https://soundcloud.com/carquois42)
 
-### solo
+solo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyParh-OTlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### with [[Lala Reich]] el al, a.k.a. Saint Sloth Machine Orchestra 
+with [[Lala Reich]] el al, a.k.a. Saint Sloth Machine Orchestra 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhj9-bh-eu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### at [[Ting Shuo Hear Say]]
+with [[Lala Reich]] & [Otomo Yoshihide](http://otomoyoshihide.com/en/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OddLGzS8Keo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+at [[Merdogon Records]]
+...
+
+at [[Senko Issha]]
+...
+
+at [[Ting Shuo Hear Say]]
 comming soon...
 
-### at [[Bardo Pool]]
+at [[Bardo Pool]]
 comming ???

@@ -44,5 +44,5 @@ at [[Senko Issha]]
 at [[Ting Shuo Hear Say]]
 comming soon...
 
-at [[Bardo Pool]]
+at [[Bardo Pond]]
 comming ???
